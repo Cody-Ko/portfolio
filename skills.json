@@ -1,0 +1,140 @@
+{
+    "SkillsArray" : [
+        {
+            "id" : 1,
+            "name" : "Agile Software Development",
+            "status" : ""
+          },
+          {
+            "id" : 2,
+            "name": "Full-Stack Development",
+            "status" : ""
+           
+          },
+          {
+            "id": 3,
+            "name": "Git",
+            "status": ""
+            
+          },
+          {
+            "id": 4,
+            "name" : "IntelliJ IDEA",
+            "status" : ""
+            
+          },
+          {
+            "id": 5,
+            "name" : "Java",
+            "status" : ""
+            
+          },
+          {
+            "id": 6,
+            "name" : "Object-Oriented Programming (OOP)",
+            "status" : ""
+            
+          },
+          {
+            "id": 7,
+            "name" : "Unit Testing",
+            "status" : ""
+            
+          },
+          {
+            "id": 8,
+            "name" : "JUnit",
+            "status" : ""
+            
+          },
+          {
+            "id": 9,
+            "name" : "Database Design",
+            "status" : ""
+           
+          },
+          {
+            "id": 10,
+            "name" : "Database Management System (DBMS)",
+            "status" : ""
+            
+          },
+          {
+            "id": 11,
+            "name" : "Server Side Programming",
+            "status" : ""
+            
+          },
+          {
+            "id": 12,
+            "name" : "SQL",
+            "status" : ""
+            
+          },
+          {
+            "id": 13,
+            "name" : "Java Database Connectivity (JDBC)",
+            "status" : ""
+            
+          },
+          {
+            "id": 14,
+            "name" : "Spring Boot",
+            "status" : ""
+          },
+          {
+            "id": 15,
+            "name" : "Web Development",
+            "status" : ""
+            
+          },
+          {
+            "id": 16,
+            "name" : "JavaScript",
+            "status" : ""
+           
+          },
+          {
+            "id": 17,
+            "name" : "HTML",
+            "status" : ""
+            
+          },
+          {
+            "id": 18,
+            "name" : "Cascading Style Sheets (CSS)",
+            "status" : ""
+            
+          },
+          {
+            "id": 19,
+            "name" : "CSS Grid Layout",
+            "status" : ""
+           
+          },
+          {
+            "id":  20,
+            "name" : "CSS Flexbox",
+            "status" : ""
+            
+          },
+          {
+            "id": 21,
+            "name" : "Vuex",
+            "status" : ""
+            
+          },
+          {
+            "id": 22,
+            "name" : "Vue.js",
+            "status" : ""
+            
+          },
+          {
+            "id": 23,
+            "name" : "Pair Programming",
+            "status": ""
+            
+          }
+    ] 
+}
