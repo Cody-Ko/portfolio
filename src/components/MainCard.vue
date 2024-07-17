@@ -12,10 +12,10 @@
   <div id="introduction">
     <div id="face-name-summary">
       <img id="headshot" src="../assets/IMG_1865 copy.jpg" alt="Headshot" />
-      <h1>Welcome, I'm Cody Osei.</h1>
+      <h1>Welcome, I'm Cody Osei!</h1>
       <div id="summary">
         <p>
-          A recent graduate of Tech Elevator's Full-Stack Java Web Application Development Bootcamp,
+          A recent graduate of Tech Elevator's fullstack Java Web Application Development Bootcamp,
           with a background in social media strategy. I love being able to build things that create
           a connection among people and I'm eager to apply my strong technical and soft skills in a
           space that allows me to learn from the people around me.
